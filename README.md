@@ -1,7 +1,7 @@
 # Full Stack Technical Test
 
 ## The Challenge
-Build a modern events platform that solves common challenges faced by organizations managing events in **exactly 1 hour**.
+Build a modern events platform that solves common challenges faced by organizations managing events in **1 hour**.
 
 This test evaluates your ability to:
 - Leverage AI tools effectively for rapid development
@@ -13,10 +13,18 @@ This test evaluates your ability to:
 
 ## Before You Start
 
+### Fork This Repository
+
+1. **Fork this repository** using the "Fork" button (top right)
+   - Do NOT use "Download" or clone without forking
+2. Work in your forked repository
+3. Commit with clear START and SUBMISSION messages
+4. Submit your fork URL via email once complete
+
 ### Time & Tracking
 - **Implementation time:** 1 hour (tracked via git commits)
 - **Documentation time:** Additional time allowed for README updates
-- **Honesty policy:** You can read requirements beforehand, but implement within 1 hour
+- **Honesty policy:** You can read requirements, review the API documentation and backend architecture/implementation beforehand, but once ready to start implementation please create the tracking commit and try complete within 1 hour. We advise ensuring the API and API key works as expected before starting.
 
 ### Technical Requirements
 - **Frontend:** React (required) + your choice of other tools
