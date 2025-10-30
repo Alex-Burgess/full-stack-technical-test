@@ -20,6 +20,10 @@ This test evaluates your ability to:
 2. Work in your forked repository
 3. Commit with clear START and SUBMISSION messages
 4. Submit your fork URL via email once complete
+5. **Optional:** Fork and deploy your own backend instance from [full-stack-tech-test-backend](https://github.com/HultTechnology/full-stack-tech-test-backend) if you want to:
+- Extend the API for bonus features
+- Modify endpoints or data structure
+- Have full control over the backend
 
 ### Time & Tracking
 - **Implementation time:** 1 hour (tracked via git commits)
