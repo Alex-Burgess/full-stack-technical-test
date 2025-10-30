@@ -76,6 +76,15 @@ https://x15zoj9on9.execute-api.us-east-1.amazonaws.com/prod/events
 - `GET /events/:id` - Get event details
 - `POST /events/:id/register` - Register for an event
 
+## API Documentation
+
+The complete API specification is available in OpenAPI 3.0 format: [openapi.yaml](https://github.com/HultTechnology/full-stack-tech-test-backend/blob/main/openapi.yaml)
+
+**View the interactive documentation:**
+1. Go to [Swagger Editor](https://editor.swagger.io/)
+2. Copy the contents of [openapi.yaml](https://github.com/HultTechnology/full-stack-tech-test-backend/blob/main/openapi.yaml)
+3. Paste into the editor to see interactive API documentation
+
 ### Sample Data
 The API includes 20+ sample events with:
 - Different dates and times
