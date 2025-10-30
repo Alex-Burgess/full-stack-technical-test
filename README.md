@@ -68,7 +68,7 @@ This test evaluates your ability to:
 
 ### API Base URL
 ```
-https://events-api-demo.herokuapp.com
+https://x15zoj9on9.execute-api.us-east-1.amazonaws.com/prod/events
 ```
 
 ### API Endpoints
@@ -84,7 +84,7 @@ The API includes 20+ sample events with:
 - Rich content for testing different scenarios
 
 ### API Code
-See <insert link to API code>
+See [full-stack-tech-test-backend](https://github.com/HultTechnology/full-stack-tech-test-backend)
 
 
 ## 📦 Deliverables
